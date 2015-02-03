@@ -12,3 +12,6 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+# Not in the repository, to prevent people from accidentally committing under my name
+# .extra
